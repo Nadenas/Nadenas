@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/79548495/177953608-23b5c69a-b21a-42e4-9747-03c99c38b7f2.png)
+![Almudena de la Rosa](https://user-images.githubusercontent.com/79548495/177957857-8c778ca0-4470-4933-9ad6-e23877cf7926.png)
+
 
 - 👋 Hi, I’m Almudena! I went from chemistry 💊 to wed developer 👩‍💻
 - 👀 I’m interested in front end development
